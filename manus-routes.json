@@ -1,0 +1,40 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Astromentor — um olhar mais pessoal para o céu"
+    },
+    {
+      "path": "/criar-perfil.html",
+      "title": "Criar meu perfil — seu contexto no Astromentor"
+    },
+    {
+      "path": "/entrar.html",
+      "title": "Entrar — acesse seu perfil no Astromentor"
+    },
+    {
+      "path": "/recuperar-senha.html",
+      "title": "Recuperar senha — acesso pessoal no Astromentor"
+    },
+    {
+      "path": "/conta.html",
+      "title": "Minha conta — dados e escolhas no Astromentor"
+    },
+    {
+      "path": "/sobre.html",
+      "title": "Sobre o Astromentor — conceito e autoconhecimento"
+    },
+    {
+      "path": "/privacidade.html",
+      "title": "Privacidade — dados e escolhas no Astromentor"
+    },
+    {
+      "path": "/termos.html",
+      "title": "Termos de uso — limites da experiência Astromentor"
+    },
+    {
+      "path": "/perguntas-frequentes.html",
+      "title": "Perguntas frequentes — entenda o Astromentor"
+    }
+  ]
+}

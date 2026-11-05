@@ -1,0 +1,12 @@
+# Astromentor
+
+O Astromentor é uma experiência digital de astrologia e autoconhecimento que usa o signo solar e informações escolhidas pela pessoa como pontos de partida para reflexões mais pessoais. A astrologia é tratada aqui como uma lente cultural e simbólica, não como ciência, diagnóstico ou certeza sobre o futuro.
+
+## Páginas públicas
+- [Astromentor — um olhar mais pessoal para o céu](./index.html)
+- [Sobre o Astromentor — conceito e autoconhecimento](./sobre.html)
+- [Privacidade — dados e escolhas no Astromentor](./privacidade.html)
+- [Termos de uso — limites da experiência Astromentor](./termos.html)
+- [Perguntas frequentes — entenda o Astromentor](./perguntas-frequentes.html)
+
+IA, mensagens WhatsApp, assinaturas e mapa astral completo não estão integrados. Exemplos são editoriais e ilustrativos. Conteúdo voltado a reflexão e entretenimento; não substitui orientação médica, psicológica, financeira, jurídica ou outra orientação profissional. Exemplos são ilustrativos e não constituem previsões, promessas ou aconselhamento.

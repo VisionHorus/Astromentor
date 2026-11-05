@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /*conta.html
+Disallow: /*recuperar-senha.html
+Disallow: /*entrar.html
+Disallow: /*criar-perfil.html

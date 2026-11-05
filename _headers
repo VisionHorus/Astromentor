@@ -1,0 +1,19 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Strict-Transport-Security: max-age=31536000
+  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data: https:; connect-src 'self' https: wss:; object-src 'none'; base-uri 'self'; form-action 'self'
+  Cache-Control: public, max-age=0, must-revalidate
+
+/conta.html
+  Cache-Control: no-store
+
+/criar-perfil.html
+  Cache-Control: no-store
+
+/entrar.html
+  Cache-Control: no-store
+
+/recuperar-senha.html
+  Cache-Control: no-store
